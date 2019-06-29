@@ -1,6 +1,0 @@
----
-layout: slide
-title: "Welcome to our second slide!"
----
-Github is awesome!
-Use the left arrow to go back!
